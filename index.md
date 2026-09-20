@@ -1,3 +1,7 @@
+---
+title: Home
+---
+
 # DIH-CLIP: Unleashing the Diversity of Multi-Head Self-Attention for Training-Free Open-Vocabulary Semantic Segmentation (ICCV2025)
 
 
